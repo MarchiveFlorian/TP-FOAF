@@ -13,7 +13,7 @@
     <foaf:givenName>Florian</foaf:givenName>
     <foaf:familyName>Marchive</foaf:familyName>
     <foaf:mbox rdf:resource="mailto:marchiveflorian@gmail.com"/>
-    <foaf:homepage rdf:resource="https://ton-site.com"/>
+    <foaf:homepage rdf:resource="https://marchiveflorian.github.io/TP-FOAF/foaf.rdf"/>
   </foaf:Person>
 
 </rdf:RDF>
